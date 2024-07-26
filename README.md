@@ -112,19 +112,6 @@ The project is divided into several stages:
 
 2. Access the frontend at `http://localhost:3000`.
 
-## Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-- The instructors and team members for their guidance and support.
-- The open-source community for providing valuable resources and tools.
-
 ---
 
 This README should give a comprehensive overview of your project and guide users on how to get started.
